@@ -1,0 +1,18 @@
+# Exclude Isaac Gym (large external dependency)
+mani-centric-wbc/isaacgym/
+
+# Exclude Isaac Gym package
+mani-centric-wbc/IsaacGym_Preview_4_Package.tar.gz
+
+# Common exclusions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+node_modules/
+.DS_Store
+*.log
